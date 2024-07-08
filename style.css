@@ -9,3 +9,12 @@ nav {
 	height: 25px;
 	background-color: #1C3738;
 }
+
+ul {
+	list-style: none;
+	text-decoration: none;
+}
+
+li {
+	color: #F4FFF8;
+}
