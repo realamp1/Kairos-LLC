@@ -36,3 +36,7 @@ body {
 .navbar-menu li a:hover {
     background-color: #575757;
 }
+
+.home-text {
+	text-align: center;
+}
