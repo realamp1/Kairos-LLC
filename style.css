@@ -42,3 +42,15 @@ body {
 	color: white;
 	text-align: center;
 }
+
+p {
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+a {
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
