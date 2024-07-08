@@ -15,6 +15,8 @@ ul {
 	text-decoration: none;
 }
 
-li {
+a {
 	color: #F4FFF8;
+	text-decoration: none;
+	size: 30px;
 }
