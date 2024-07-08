@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #000F08;
 }
 
 nav {
-    background-color: #333;
+    background-color: #1C3738;
     overflow: hidden;
 }
 
@@ -19,14 +20,14 @@ nav {
 
 nav li {
     float: left;
+    text-decoration: none;
 }
 
 nav li a {
     display: block;
-    color: white;
+    color: #F4FFF8;
     text-align: center;
     padding: 14px 20px;
-    text-decoration: none;
 }
 
 nav li a:hover {
