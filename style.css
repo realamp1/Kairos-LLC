@@ -2,11 +2,33 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #000F08;
 }
 
 .navbar {
-	width: 100$;
-	height: 50px;
-	background-color: #1C3738;
+    background-color: #1C3738;
+    overflow: hidden;
+}
+
+.navbar-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-menu li {
+    float: left;
+}
+
+.navbar-menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar-menu li a:hover {
+    background-color: #575757;
 }
